@@ -18,4 +18,4 @@ A **machine learning model** that recommends the best crops for cultivation base
 
 1️⃣ Clone the repository:  
 ```sh
-https://github.com/PrathamAgrawal51/Crop-Recommendation-Model.git
+git clone https://github.com/PrathamAgrawal51/Crop-Recommendation-Model.git
